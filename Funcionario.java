@@ -1,7 +1,5 @@
 package atividadecadfuncionario;
 
-import java.util.Date;
-
 public class Funcionario {
     public String nome;
     public Long idade;
